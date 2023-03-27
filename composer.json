@@ -4,6 +4,7 @@
     "type": "component",
     "homepage": "http://jquery.com",
     "license": "MIT",
+    "version": "3.6.4",
     "support": {
         "irc": "irc://irc.freenode.org/jquery",
         "issues": "https://github.com/jquery/jquery/issues",
